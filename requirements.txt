@@ -1,0 +1,13 @@
+pandas~=2.3.1
+openpyxl
+python-docx
+requests
+sentence-transformers~=5.0.0
+torch
+
+faiss-cpu~=1.11.0.post1
+numpy~=1.26.4
+uvicorn~=0.35.0
+fastapi~=0.116.1
+pydantic~=2.11.7
+chromadb~=1.0.15
